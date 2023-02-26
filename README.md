@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramgopalio
-- 👀 I’m interested in coding...
-- 🌱 I’m currently working ...
-- 💞️ I’m looking to collaborate with you ...
+- 👀 Passionate to coding,
+- 🌱 Science & Technologies and Innovation
+- 💞️ I’m looking to collaborate with you
 - 📫 reach me ...https://github.com/ramgopalio
 
 <!---
