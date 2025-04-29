@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramgopalio
+👋 Hi, I’m @ramgopalio
 - 👀 Passionate to coding,
 - 🌱 Science & Technologies and Innovation
 - 💞️ I’m looking to collaborate with you
